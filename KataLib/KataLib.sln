@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KataLib", "KataLib.fsproj", "{7114B78E-CF88-4A9F-BF63-1E00DDA0F773}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KataSpecs", "..\KataSpecs\KataSpecs.fsproj", "{DD421463-6551-4916-9C79-39F7471C9EAD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +13,6 @@ Global
 		{7114B78E-CF88-4A9F-BF63-1E00DDA0F773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7114B78E-CF88-4A9F-BF63-1E00DDA0F773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7114B78E-CF88-4A9F-BF63-1E00DDA0F773}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD421463-6551-4916-9C79-39F7471C9EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD421463-6551-4916-9C79-39F7471C9EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD421463-6551-4916-9C79-39F7471C9EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD421463-6551-4916-9C79-39F7471C9EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

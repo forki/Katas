@@ -1,4 +1,4 @@
-module KataSpecs.NaturalSpecSample
+module KataSpecs
 
 open NaturalSpec
 
